@@ -13,6 +13,6 @@ class Solution {
 		} else
 			tempMap.put(nums[i], i);
 	}
-	return null;
+	return new int[] {-1, -1};
 }
 }
