@@ -8,7 +8,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		String s = new String("pwwkew");
 		int x = Solution.lengthOfLongestSubstring(s);
-		System.out.println(x);
+		System.out.println("没做出来");
 		
 		
 	}
