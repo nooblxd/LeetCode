@@ -1,7 +1,7 @@
 package com.leetcode.ans2;
 
 class Solution {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+    public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode p1 = l1, p2 = l2;
         ListNode head = new ListNode(0);
         ListNode cur = head;
